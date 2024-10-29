@@ -332,7 +332,8 @@ body {
   text-align: center;
 }
 .shop .shop__inner .box .box__inner {
-  padding: 20px;
+  padding: 10px;
+  padding-bottom: 20px;
 }
 .shop .shop__inner .box .box__inner .title img {
   width: 875px;
@@ -359,7 +360,7 @@ body {
 }
 .shop .shop__inner .box .box__inner .btn a img {
   width: 400px;
-  height: 60px;
+  height: 61px;
 }
 .shop .shop__inner .box:before {
   display: block;
