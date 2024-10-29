@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.98829b65.css",
-    "main.js": "/static/js/main.ab6879b2.js",
-    "static/js/453.67718f0b.chunk.js": "/static/js/453.67718f0b.chunk.js",
-    "static/media/main_bg.jpg": "/static/media/main_bg.96043d135ad068f97f35.jpg",
-    "static/media/punc1.png": "/static/media/punc1.b126ec7e4c42c3b4d1a9.png",
-    "static/media/punc3.png": "/static/media/punc3.6fa7debd7e2ad14e7118.png",
-    "static/media/shop_bg2.png": "/static/media/shop_bg2.dc093acb79c70c76733a.png",
-    "static/media/punc2.png": "/static/media/punc2.338160be14f6afba7f42.png",
-    "static/media/main_title.png": "/static/media/main_title.25b63a2016486642a3c7.png",
-    "static/media/c03_bg.png": "/static/media/c03_bg.8d798fcde461d9c66aeb.png",
-    "static/media/main_pdtitle.png": "/static/media/main_pdtitle.e16079c41711f1c55d35.png",
-    "static/media/main_title_sp.png": "/static/media/main_title_sp.2efe3fef6098bd277729.png",
-    "static/media/c01_title.png": "/static/media/c01_title.e74a733e0494d374b5ea.png",
-    "index.html": "/index.html",
-    "main.98829b65.css.map": "/static/css/main.98829b65.css.map",
-    "main.ab6879b2.js.map": "/static/js/main.ab6879b2.js.map",
-    "453.67718f0b.chunk.js.map": "/static/js/453.67718f0b.chunk.js.map"
+    "main.css": "/bathsolt-react-typescript/static/css/main.826af6c0.css",
+    "main.js": "/bathsolt-react-typescript/static/js/main.c68acca1.js",
+    "static/js/453.67718f0b.chunk.js": "/bathsolt-react-typescript/static/js/453.67718f0b.chunk.js",
+    "static/media/main_bg.jpg": "/bathsolt-react-typescript/static/media/main_bg.96043d135ad068f97f35.jpg",
+    "static/media/punc1.png": "/bathsolt-react-typescript/static/media/punc1.b126ec7e4c42c3b4d1a9.png",
+    "static/media/punc3.png": "/bathsolt-react-typescript/static/media/punc3.6fa7debd7e2ad14e7118.png",
+    "static/media/shop_bg2.png": "/bathsolt-react-typescript/static/media/shop_bg2.dc093acb79c70c76733a.png",
+    "static/media/punc2.png": "/bathsolt-react-typescript/static/media/punc2.338160be14f6afba7f42.png",
+    "static/media/main_title.png": "/bathsolt-react-typescript/static/media/main_title.25b63a2016486642a3c7.png",
+    "static/media/c03_bg.png": "/bathsolt-react-typescript/static/media/c03_bg.8d798fcde461d9c66aeb.png",
+    "static/media/main_pdtitle.png": "/bathsolt-react-typescript/static/media/main_pdtitle.e16079c41711f1c55d35.png",
+    "static/media/main_title_sp.png": "/bathsolt-react-typescript/static/media/main_title_sp.2efe3fef6098bd277729.png",
+    "static/media/c01_title.png": "/bathsolt-react-typescript/static/media/c01_title.e74a733e0494d374b5ea.png",
+    "index.html": "/bathsolt-react-typescript/index.html",
+    "main.826af6c0.css.map": "/bathsolt-react-typescript/static/css/main.826af6c0.css.map",
+    "main.c68acca1.js.map": "/bathsolt-react-typescript/static/js/main.c68acca1.js.map",
+    "453.67718f0b.chunk.js.map": "/bathsolt-react-typescript/static/js/453.67718f0b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98829b65.css",
-    "static/js/main.ab6879b2.js"
+    "static/css/main.826af6c0.css",
+    "static/js/main.c68acca1.js"
   ]
 }
