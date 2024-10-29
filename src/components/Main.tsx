@@ -6,7 +6,7 @@ import '../css/style.css';
 const Main: React.FC = () => {
   return (
     <>
-      {/* メインセクション */}
+      {/* main section */}
       <section className="main">
         <div className="main__inner">
           <div className="logo">
@@ -14,10 +14,10 @@ const Main: React.FC = () => {
           </div>
           <div className="title">
             <img src={require('../img/main_title.png')} alt="メインタイトル" />
-            <img className="none" src="img/main_title_sp.png" alt="メインタイトルSP" />
+            <img className="none" src={require('../img/main_title_sp.png')}  alt="メインタイトルSP" />
           </div>
           <div className="sub__title">
-            <img src="img/main_pdtitle.png" alt="サブタイトル" />
+            <img src={require('../img/main_pdtitle.png')} alt="サブタイトル" />
           </div>
         </div>
       </section>
@@ -26,7 +26,7 @@ const Main: React.FC = () => {
       <section className="main__bottom">
         <div className="main__bottom__inner">
           <div className="title">
-            <img src="img/c01_title.png" alt="タイトル" />
+            <img src={require('../img/c01_title.png')} alt="タイトル" />
           </div>
           <div className="title__text">
             <p className="text">
@@ -40,10 +40,10 @@ const Main: React.FC = () => {
           </div>
 
           <button className="green">
-            <a href="">ご購入はこちら</a>
+            <a href="/">ご購入はこちら</a>
           </button>
           <button className="orange">
-            <a href="">詳しく見る</a>
+            <a href="/">詳しく見る</a>
           </button>
         </div>
       </section>
